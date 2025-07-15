@@ -61,6 +61,7 @@ header .logo {
     font-weight: bold;
     color: var(--light-color);
     text-decoration: none;
+    white-space: nowrap;
 }
 
 header .nav-links {
