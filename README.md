@@ -1,1 +1,1 @@
-Curriculo em desenvolvimento web com css
+Curriculo em desenvolvimento web com html e css
